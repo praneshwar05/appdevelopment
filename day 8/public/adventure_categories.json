@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Hiking",
+    "description": "Explore scenic trails and enjoy the great outdoors.",
+    "image_url": "hiking.png",
+    "display_image_url": "display-hiking.png",
+    "id": 1
+  },
+  {
+    "name": "Camping",
+    "description": "Experience the tranquility of nature under the stars.",
+    "image_url": "camping.png",
+    "display_image_url": "display-camping.png",
+    "id": 2
+  },
+  {
+    "name": "Rock Climbing",
+    "description": "Challenge yourself on natural and artificial rock formations.",
+    "image_url": "rock-climbing.png",
+    "display_image_url": "display-rock-climbing.png",
+    "id": 3
+  },
+  {
+    "name": "Mountain Biking",
+    "description": "Navigate rugged terrain and downhill trails on two wheels.",
+    "image_url": "mountain-biking.png",
+    "display_image_url": "display-mountain-biking.png",
+    "id": 4
+  },
+  {
+    "name": "Kayaking",
+    "description": "Paddle through calm lakes or thrilling whitewater rapids.",
+    "image_url": "kayaking.png",
+    "display_image_url": "display-kayaking.png",
+    "id": 5,
+    "image_alt": "kayaking image"
+  },
+  {
+    "name": "White Water Rafting",
+    "description": "Conquer fast-flowing rivers and navigate challenging rapids.",
+    "image_url": "white-water-rafting.png",
+    "display_image_url": "display-white-water-rafting.png",
+    "id": 6,
+    "image_alt": "white-water-rafting image"
+  },
+  {
+    "name": "Canoeing",
+    "description": "Enjoy a leisurely paddle in serene waters or adventurous expeditions.",
+    "image_url": "canoeing.png",
+    "display_image_url": "display-canoeing.png",
+    "id": 7,
+    "image_alt": "canoeing image"
+  },
+  {
+    "name": "Backpacking",
+    "description": "Embark on multi-day treks with all you need on your back.",
+    "image_url": "backpacking.png",
+    "display_image_url": "display-backpacking.png",
+    "id": 8,
+    "image_alt": "backpacking image"
+  },
+  {
+    "name": "Trail Running",
+    "description": "Combine running and hiking on scenic trails and mountain paths.",
+    "image_url": "trail-running.png",
+    "display_image_url": "display-trail-running.png",
+    "id": 9,
+    "image_alt": "trail-running image"
+  },
+  {
+    "name": "Zip Lining",
+    "description": "Experience the thrill of flying on high-speed zip lines.",
+    "image_url": "zip-lining.png",
+    "display_image_url": "display-zip-lining.png",
+    "id": 10,
+    "image_alt": "zip-lining image"
+  },
+  {
+    "name": "Paragliding",
+    "description": "Soar through the skies while suspended from a parachute-like wing.",
+    "image_url": "paragliding.png",
+    "display_image_url": "display-paragliding.png",
+    "id": 11,
+    "image_alt": "paragliding image"
+  },
+  {
+    "name": "Skydiving",
+    "description": "Jump from an aircraft and freefall before deploying a parachute.",
+    "image_url": "skydiving.png",
+    "display_image_url": "display-skydiving.png",
+    "id": 12
+  },
+  {
+    "name": "Cave Exploration",
+    "description": "Delve into underground caves and discover hidden wonders.",
+    "image_url": "cave-exploration.png",
+    "display_image_url": "display-cave-exploration.png",
+    "id": 13
+  },
+  {
+    "name": "Snowboarding",
+    "description": "Carve through fresh powder on snowy mountain slopes.",
+    "image_url": "snowboarding.png",
+    "display_image_url": "display-snowboarding.png",
+    "id": 14
+  },
+  {
+    "name": "Skiing",
+    "description": "Glide down pristine ski slopes amid breathtaking scenery.",
+    "image_url": "skiing.png",
+    "display_image_url": "display-skiing.png",
+    "id": 15
+  },
+  {
+    "name": "Surfing",
+    "description": "Ride the waves and catch the perfect surf along coastlines.",
+    "image_url": "surfing.png",
+    "display_image_url": "display-surfing.png",
+    "id": 16
+  },
+  {
+    "name": "Snorkeling",
+    "description": "Explore underwater ecosystems with just a mask and snorkel.",
+    "image_url": "snorkeling.png",
+    "display_image_url": "display-snorkeling.png",
+    "id": 17
+  },
+  {
+    "name": "Scuba Diving",
+    "description": "Dive deep into the ocean to witness marine life and reefs.",
+    "image_url": "scuba-diving.png",
+    "display_image_url": "display-scuba-diving.png",
+    "id": 18
+  },
+  {
+    "name": "Sailing",
+    "description": "Combine elements of surfing and sailing on a windsurfing board.",
+    "image_url": "sailing.png",
+    "display_image_url": "display-sailing.png",
+    "id": 19
+  },
+  {
+    "name": "Kiteboarding",
+    "description": "Harness the power of the wind while riding a kiteboard on water.",
+    "image_url": "kiteboarding.png",
+    "display_image_url": "display-kiteboarding.png",
+    "id": 20
+  }
+]

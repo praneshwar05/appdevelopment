@@ -1,0 +1,239 @@
+[
+  {
+    "name": "Hiking",
+    "description": "Explore scenic trails and enjoy the great outdoors.",
+    "image_url": "/hiking.png"
+  },
+  {
+    "name": "Camping",
+    "description": "Experience the tranquility of nature under the stars.",
+    "image_url": "/camping.png"
+  },
+  {
+    "name": "Rock Climbing",
+    "description": "Challenge yourself on natural and artificial rock formations.",
+    "image_url": "/rock-climbing.png"
+  },
+  {
+    "name": "Mountain Biking",
+    "description": "Navigate rugged terrain and downhill trails on two wheels.",
+    "image_url": "/mountain-biking.png"
+  },
+  {
+    "name": "Kayaking",
+    "description": "Paddle through calm lakes or thrilling whitewater rapids.",
+    "image_url": "/kayaking.png",
+    "image_alt": "kayaking image"
+  },
+  {
+    "name": "White Water Rafting",
+    "description": "Conquer fast-flowing rivers and navigate challenging rapids.",
+    "image_url": "/white-water-rafting.png",
+    "image_alt": "/white-water-rafting image"
+  },
+  {
+    "name": "Canoeing",
+    "description": "Enjoy a leisurely paddle in serene waters or adventurous expeditions.",
+    "image_url": "/canoeing.png",
+    "image_alt": "canoeing image"
+  },
+  {
+    "name": "Backpacking",
+    "description": "Embark on multi-day treks with all you need on your back.",
+    "image_url": "/backpacking.png",
+    "image_alt": "backpacking image"
+  },
+  {
+    "name": "Trail Running",
+    "description": "Combine running and hiking on scenic trails and mountain paths.",
+    "image_url": "/trail-running.png",
+    "image_alt": "trail-running image"
+  },
+  {
+    "name": "Zip Lining",
+    "description": "Experience the thrill of flying on high-speed zip lines.",
+    "image_url": "/zip-lining.png",
+    "image_alt": "/zip-lining image"
+  },
+  {
+    "name": "Paragliding",
+    "description": "Soar through the skies while suspended from a parachute-like wing.",
+    "image_url": "/paragliding.png",
+    "image_alt": "paragliding image"
+  },
+  {
+    "name": "Skydiving",
+    "description": "Jump from an aircraft and freefall before deploying a parachute.",
+    "image_url": "/skydiving.png"
+  },
+  {
+    "name": "Cave Exploration",
+    "description": "Delve into underground caves and discover hidden wonders.",
+    "image_url": "/cave-exploration.png"
+  },
+  {
+    "name": "Snowboarding",
+    "description": "Carve through fresh powder on snowy mountain slopes.",
+    "image_url": "/snowboarding.png"
+  },
+  {
+    "name": "Skiing",
+    "description": "Glide down pristine ski slopes amid breathtaking scenery.",
+    "image_url": "/skiing.png"
+  },
+  {
+    "name": "Surfing",
+    "description": "Ride the waves and catch the perfect surf along coastlines.",
+    "image_url": "/surfing.png"
+  },
+  {
+    "name": "Snorkeling",
+    "description": "Explore underwater ecosystems with just a mask and snorkel.",
+    "image_url": "/snorkeling.png"
+  },
+  {
+    "name": "Scuba Diving",
+    "description": "Dive deep into the ocean to witness marine life and reefs.",
+    "image_url": "/scuba-diving.png"
+  },
+  {
+    "name": "Windsurfing",
+    "description": "Combine elements of surfing and sailing on a windsurfing board.",
+    "image_url": "/windsurfing.png"
+  },
+  {
+    "name": "Kiteboarding",
+    "description": "Harness the power of the wind while riding a kiteboard on water.",
+    "image_url": "/kiteboarding.png"
+  },
+  {
+    "name": "Sailing",
+    "description": "Set sail on a boat or yacht and explore coastal or open waters.",
+    "image_url": "https://example.com/sailing.jpg"
+  },
+  {
+    "name": "Fishing Expeditions",
+    "description": "Embark on fishing adventures in various water bodies.",
+    "image_url": "https://example.com/fishing-expeditions.jpg"
+  },
+  {
+    "name": "Wildlife Safaris",
+    "description": "Observe wildlife in their natural habitats on guided safaris.",
+    "image_url": "https://example.com/wildlife-safaris.jpg"
+  },
+  {
+    "name": "Photography Tours",
+    "description": "Capture stunning landscapes and wildlife through photography.",
+    "image_url": "https://example.com/photography-tours.jpg"
+  },
+  {
+    "name": "Hot Air Ballooning",
+    "description": "Take to the skies in a hot air balloon for scenic aerial views.",
+    "image_url": "https://example.com/hot-air-ballooning.jpg"
+  },
+  {
+    "name": "Bungee Jumping",
+    "description": "Leap from heights with a bungee cord for an adrenaline rush.",
+    "image_url": "https://example.com/bungee-jumping.jpg"
+  },
+  {
+    "name": "Hang Gliding",
+    "description": "Glide through the air using a lightweight non-motorized glider.",
+    "image_url": "https://example.com/hang-gliding.jpg"
+  },
+  {
+    "name": "Off-Roading",
+    "description": "Navigate rugged terrains in 4x4 vehicles or off-road motorcycles.",
+    "image_url": "https://example.com/off-roading.jpg"
+  },
+  {
+    "name": "Horseback Riding",
+    "description": "Explore scenic landscapes on horseback with guided tours.",
+    "image_url": "https://example.com/horseback-riding.jpg"
+  },
+  {
+    "name": "Dog Sledding",
+    "description": "Experience the thrill of dog-powered sled rides in snowy regions.",
+    "image_url": "https://example.com/dog-sledding.jpg"
+  },
+  {
+    "name": "Ice Climbing",
+    "description": "Scale frozen waterfalls and ice formations in icy environments.",
+    "image_url": "https://example.com/ice-climbing.jpg"
+  },
+  {
+    "name": "Spelunking (Cave Diving)",
+    "description": "Explore underground caves, tunnels, and chambers.",
+    "image_url": "https://example.com/spelunking.jpg"
+  },
+  {
+    "name": "Ski Touring",
+    "description": "Backcountry skiing adventures through untracked snow.",
+    "image_url": "https://example.com/ski-touring.jpg"
+  },
+  {
+    "name": "Sandboarding",
+    "description": "Slide down sand dunes on a sandboard for desert fun.",
+    "image_url": "https://example.com/sandboarding.jpg"
+  },
+  {
+    "name": "Surf Fishing",
+    "description": "Cast a line from the shoreline and reel in the catch of the day.",
+    "image_url": "https://example.com/surf-fishing.jpg"
+  },
+  {
+    "name": "Trekking",
+    "description": "Embark on long-distance hikes through diverse landscapes.",
+    "image_url": "https://example.com/trekking.jpg"
+  },
+  {
+    "name": "Snowshoeing",
+    "description": "Explore snowy terrains with snowshoes for added stability.",
+    "image_url": "https://example.com/snowshoeing.jpg"
+  },
+  {
+    "name": "Kite Surfing",
+    "description": "Combine elements of kite flying and surfing on the water.",
+    "image_url": "https://example.com/kite-surfing.jpg"
+  },
+  {
+    "name": "Spearfishing",
+    "description": "Hunt fish underwater using a spear gun or snorkeling equipment.",
+    "image_url": "https://example.com/spearfishing.jpg"
+  },
+  {
+    "name": "Mountain Boarding",
+    "description": "Ride down slopes and trails on a mountain board.",
+    "image_url": "https://example.com/mountain-boarding.jpg"
+  },
+  {
+    "name": "Wilderness Survival Training",
+    "description": "Learn essential survival skills in the great outdoors.",
+    "image_url": "https://example.com/wilderness-survival-training.jpg"
+  },
+  {
+    "name": "Glacier Hiking",
+    "description": "Explore glaciers and ice formations with guided hikes.",
+    "image_url": "https://example.com/glacier-hiking.jpg"
+  },
+  {
+    "name": "Mushroom Foraging",
+    "description": "Hunt for edible mushrooms in forests and woodlands.",
+    "image_url": "https://example.com/mushroom-foraging.jpg"
+  },
+  {
+    "name": "Geocaching",
+    "description": "Participate in a GPS-based treasure hunting adventure.",
+    "image_url": "https://example.com/geocaching.jpg"
+  },
+  {
+    "name": "Stand-Up Paddleboarding (SUP)",
+    "description": "Paddle while standing on a board in calm waters.",
+    "image_url": "https://example.com/stand-up-paddleboarding.jpg"
+  },
+  {
+    "name": "Kite Buggying",
+    "description": "Ride a buggy powered by a kite for land-based thrills.",
+    "image_url": "https://example.com/kite-buggying.jpg"
+  }
+]
