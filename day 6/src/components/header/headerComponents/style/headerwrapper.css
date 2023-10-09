@@ -1,0 +1,11 @@
+.header-wrapper {
+  width: 100%;
+  height: max-content;
+  background-color: var(--darkblue);
+}
+.material-symbols-outlined-color {
+  color: white;
+}
+.material-symbols-outlined-size-customized {
+  font-size: var(--iconsize);
+}

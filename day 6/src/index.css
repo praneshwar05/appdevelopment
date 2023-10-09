@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+:root {
+  --darkblue: #2b448f;
+  --headerbottomcolor: rgba(255, 255, 255, 0.131);
+}
+p {
+  font-size: 16px;
+}
+.custom-link {
+  color: inherit;
+  text-decoration: none;
+}

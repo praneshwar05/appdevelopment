@@ -1,0 +1,38 @@
+.headerpart2-wrapper {
+  height: max-content;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid var(--headerbottomcolor);
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.hd-p2-div3 {
+  display: flex;
+  /* padding: 10px 0; */
+  gap: 20px;
+}
+.hd-p2-div3-content {
+  color: white;
+  position: relative;
+  padding: 0 10px;
+  & a {
+    display: flex;
+    align-items: center;
+    & span {
+      position: relative;
+    }
+    & span:nth-child(2) {
+      color: gold;
+    }
+  }
+}
+
+.hd-p2-div3-person-d-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column-reverse;
+  & span {
+    display: block;
+  }
+}
